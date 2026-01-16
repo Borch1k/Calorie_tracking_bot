@@ -17,3 +17,10 @@ TODO:
 
 Comments:
 Отдельно хочу уточнить, что я использовал только самый малую часть базы usda, потому что она самая простая по поиску, ну и к ней не требуется дописывать inline keyboard, в идеале использовать полную базу, и выдавать ответы в виде клавиатуры
+
+Images:
+![Interface](bot_screenshot.png)
+
+![Build Logs](docker_build_log.png)
+
+![Docker bot logs](docker_bot_log.png)
